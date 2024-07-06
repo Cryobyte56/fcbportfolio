@@ -1,0 +1,52 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #2382cc;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%232382CC' width='11' height='11'/%3E%3Crect fill='%232d83cd' x='10' width='11' height='11'/%3E%3Crect fill='%233583ce' y='10' width='11' height='11'/%3E%3Crect fill='%233c84ce' x='20' width='11' height='11'/%3E%3Crect fill='%234284cf' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%234885d0' y='20' width='11' height='11'/%3E%3Crect fill='%234e85d0' x='30' width='11' height='11'/%3E%3Crect fill='%235386d1' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%235886d2' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%235d87d2' y='30' width='11' height='11'/%3E%3Crect fill='%236287d3' x='40' width='11' height='11'/%3E%3Crect fill='%236688d3' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%236a88d4' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%236f89d4' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%237389d4' y='40' width='11' height='11'/%3E%3Crect fill='%23778ad5' x='50' width='11' height='11'/%3E%3Crect fill='%237b8ad5' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%237e8bd6' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23828bd6' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23868cd6' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%23898cd6' y='50' width='11' height='11'/%3E%3Crect fill='%238d8dd7' x='60' width='11' height='11'/%3E%3Crect fill='%23908dd7' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%23938ed7' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%23978ed7' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%239a8fd7' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%239d90d7' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23a090d7' x='70' width='11' height='11'/%3E%3Crect fill='%23a391d8' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23a691d8' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23a992d8' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23ac93d8' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23af93d8' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23b294d8' x='80' width='11' height='11'/%3E%3Crect fill='%23b594d8' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%23b895d8' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%23ba96d8' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23bd96d7' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23c097d7' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23c298d7' x='90' width='11' height='11'/%3E%3Crect fill='%23c599d7' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%23c799d7' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23ca9ad7' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23cc9bd7' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%23cf9cd7' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%23d19cd6' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%23d39dd6' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23d69ed6' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23d89fd6' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23daa0d6' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%23dca1d6' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%23dea1d5' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23e0a2d5' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23e2a3d5' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%23e4a4d5' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23e6a5d5' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23e8a6d5' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%23eaa7d4' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23eca8d4' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23EEA9D4' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1,
+p {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* ID SELECTOR */
+#profile {
+  height: 250px;
+  width: 250px;
+
+  border-radius: 50%;
+}
+
+footer {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+  padding: 20px;
+}
+
+.fa-brands,
+.fa-solid {
+  font-size: 25px;
+  color: white;
+  margin: 0 15px 0 10px;
+}
+
+.fa-brands:hover,
+.fa-solid:hover {
+  color: gray;
+}
+
+#landing {
+  height: 85.2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
